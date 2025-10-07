@@ -1,3 +1,4 @@
+//  Check Positive, Negative or Zero
 const number=-30;
 if(number>0){
     console.log("positive")

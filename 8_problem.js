@@ -1,3 +1,4 @@
+// Grade Calculator
 const marks=96;
 if(marks>90){
     console.log("A+")
